@@ -1,0 +1,14 @@
+# Django
+*.sqlite3
+*.pyc
+__pycache__/
+.env
+.env.local
+
+# Tailwind/Node
+node_modules/
+static/css/output.css
+
+# IDE
+.idea/
+.vscode/
